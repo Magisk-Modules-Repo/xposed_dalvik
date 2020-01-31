@@ -1,0 +1,6 @@
+id=xposed_dalvik
+name=Xposed Framework (Dalvik)
+version=v58
+versionCode=5800
+author=rovo89, MlgmXyysd
+description=The official Dalvik Xposed Framework, packaged by @MlgmXyysd. Supports Android 4.2, 4.3, 4.4, 4.4W. Telegram: @EdXposed
